@@ -48,7 +48,7 @@ body{
   padding-top: 100px;
 }
 
-#about h2{
+#about h3{
   font-weight: bold;
 }
 
@@ -78,10 +78,12 @@ body{
 .carousel-caption{
   color: white;
   padding-top: 50px;
+  margin-bottom: 10px;
+  height: 150px;
   position: relative;
   left: auto;
   right: auto;
-  height: 150px;
+
 }
 
 .footer{
